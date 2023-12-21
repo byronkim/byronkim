@@ -43,8 +43,8 @@ Byron_Kim
 │   ├── my_joy # unknown knowledge + new solutions
 │   └── my_enjoyment # better service + better logic
 ├── skills
-│   ├── english # opic AL
-│   └── planning_and_communication # 
+│   ├── english # opic al
+│   └── planning_and_communication # my specialty
 ├── learning
 │   ├── python
 │   ├── algorithm
@@ -60,5 +60,30 @@ Byron_Kim
     ├── MILITARY_SERVICE="rokmc_1067"
     └── CURRENT_OBJECTIVE="seeking_for_a_job"
 ```
+
+안녕하세요, 다양한 경험을 가진 백엔드 개발자 김규태(Byron Kim)입니다. 
+ENTP 성격으로, 지속적인 학습과 새로운 도전을 추구합니다.
+
+저의 경력은 전문 회의 기획자, 웹툰 작가, 그리고 트위치 스트리밍에 이르기까지 다양합니다. 
+
+2021년 부트캠프 코딩을 통해 백엔드 개발에 입문했으며,
+첫 회사였던 wondermove에서는 유럽 10개국 출시 예정이었던 'myHyundai' 앱의 백엔드를 담당하며 고객 및 딜러를 위한 다양한 API 및 기능을 구현하였고, 
+현재는 mingling에서 'minglish', 'mingle_pay', 'metakiz' 등의 프로젝트에서 유아 교육 및 사내 백오피스 웹앱의 백엔드를 개발하였습니다. 
+
+제 비전은 백엔드 분야에서 3년 내로 전문가가 되어 다양한 개발자들과 자신 있게 의견을 나누는 것으로,
+몰랐던 지식을 깨우침으로 새로운 답을 찾는 것이 저의 큰 기쁨이며
+더 나은 서비스와 더 나은 로직을 고민하는 것이 저의 즐거움입니다.
+
+영어(Opic AL) 능력과 계획 및 커뮤니케이션 능력도 저의 강점입니다.
+
+현재는 Python, 알고리즘, Flutter를 학습 중이며, 
+스트레스 해소용으로 리그 오브 레전드(과거 다이아몬드 등급)와 스팀 게임을 즐깁니다. 
+
+감사합니다.
+
+
+[![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
+
+
 
 
