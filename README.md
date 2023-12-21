@@ -9,12 +9,9 @@ Byron_Kim
 │   ├── bootcamp # codestates, 2021.01-2021.06
 │   │   └── project # picaff (backend part)
 │   │       ├── stack # typescript, node.js express, typeorm, mysql
-│   │       ├── job1 # db writing
-│   │       ├── job2 # oauth login (google & kakao)
-│   │       ├── job3 # /item endpoint related crud apis
-│   │       └── job4 # aws deployment
+│   │       ├── job # db writing, google & kakao oauth login, /item endpoint related crud apis, aws deployment
 │   ├── chapter_1 # wondermove, 2022.02-2022.08
-│   │   └── project # myHyundai apps (main/dealer)
+│   │   └── project # myHyundai backend for the apps (main/dealer)
 │   │       ├── stacks # typescript, node.js, azure, mongodb
 │   │       ├── features # planned for launch in 10 European countries
 │   │       └── functions
@@ -28,27 +25,30 @@ Byron_Kim
 │           ├── minglish # english education app backend (2022.12-2023.03)
 │           │   ├── stack # typescript, node.js, typeorm, aws
 │           │   ├── db design, feature implementation, batch file, api doc (notion), aws deployment
-│           │   ├── features # member, kindergarten, video management
+│           │   ├── features # member, kindergarten, video management apis
 │           │   └── active users # over 400
-│           ├── Economic and Social Labor Commission Normal Youth # website development and deployment
+│           ├── eslc(경제사회노동위원회) normal youth # website development and deployment (2023.04-2023.06)
 │           │   ├── stack # ruby on rails, java, jboss
 │           │   └── url: https://eslc.go.kr/normalyouth
-│           ├── mingle pay # backoffice web app (2022.12-2023.02)
+│           ├── mingle pay # backoffice web app (2023.07-2023.11)
 │           │   ├── stack # typescript, nestjs, typeorm, aws
 │           │   ├── planning, db design, feature implementation, api doc (swagger), aws deployment
-│           │   └── functions # member, branch, kindergarten, teacher management, inventory, attendance, ordering, logging
-│           └── metakiz # children's math & science play project backoffice
+│           │   └── functions # member, branch, kindergarten, teacher management, inventory, attendance, ordering, logging apis
+│           └── metakiz # children's math & science play project backoffice (2023.11-2023.12)
 │               ├── stack # typescript, nestjs, typeorm, aws
-│               └── functions # user registration & sns login, management apis, logging (dau, wau, mau)
+│               ├── db design, feature implementation, api doc (swagger), aws deployment
+│               └── functions # user, management, logging (dau, wau, mau) apis
 ├── vision
 │   ├── future # become a backend expert, present opinions confidently within three years
-│   └── inspirations.json
+│   ├── joy # unknown knowledge + new solutions
+│   └── enjoyment # better service + better logic
 ├── skills
 │   ├── english # opic AL
-│   └── planning & communication
+│   └── planning_and_communication # 
 ├── learning
 │   ├── python
-│   └── algorithm
+│   ├── algorithm
+│   └── flutter
 ├── hobbies
 │   ├── gaming # league_of_legends & steam
 │   └── social_drinking
@@ -60,3 +60,5 @@ Byron_Kim
     ├── FAVORITE_TECH="typescript"
     └── CURRENT_OBJECTIVE="seeking_for_a_job"
 ```
+
+
