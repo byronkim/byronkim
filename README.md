@@ -17,7 +17,7 @@ Byron_Kim
 │   │       └── functions
 │   │           ├── car purchase, test drive, car repair, used car sales, liveconsult service
 │   │           ├── apis for dealer & vehicle search, custom car creation, vehicle comparison
-│   │           ├── posts & comments CRUD, like & report
+│   │           ├── posts & comments crud, like & report
 │   │           ├── rsa (road side assistance) service request & tracking via 
 │   │           └── server setup (azure, aws), batch code, archiving code, db management
 │   └── chapter_2 # mingling, 2022.12- now (1 year)
