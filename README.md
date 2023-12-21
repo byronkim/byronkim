@@ -30,7 +30,7 @@ Byron_Kim
 │           ├── eslc(경제사회노동위원회) normal youth # website development and deployment (2023.04-2023.06)
 │           │   ├── stack # ruby on rails, java, jboss
 │           │   └── url: https://eslc.go.kr/normalyouth
-│           ├── mingle pay # backoffice web app (2023.07-2023.11)
+│           ├── mingle_pay # backoffice web app (2023.07-2023.11)
 │           │   ├── stack # typescript, nestjs, typeorm, aws
 │           │   ├── planning, db design, feature implementation, api doc (swagger), aws deployment
 │           │   └── functions # member, branch, kindergarten, teacher management, inventory, attendance, ordering, logging apis
