@@ -25,7 +25,7 @@ Byron_Kim
 │           ├── minglish # english education app backend (2022.12-2023.03)
 │           │   ├── stack # typescript, node.js, typeorm, aws
 │           │   ├── db design, feature implementation, batch file, api doc (notion), aws deployment
-│           │   ├── features # member, kindergarten, video management apis
+│           │   ├── features # user, kindergarten, video management apis
 │           │   └── active users # over 400 teachers and parents
 │           ├── eslc(경제사회노동위원회) normal youth # website development and deployment (2023.04-2023.06)
 │           │   ├── stack # ruby on rails, java, jboss
@@ -33,7 +33,7 @@ Byron_Kim
 │           ├── mingle_pay # backoffice web app (2023.07-2023.11)
 │           │   ├── stack # typescript, nestjs, typeorm, aws
 │           │   ├── planning, db design, feature implementation, api doc (swagger), aws deployment
-│           │   └── functions # member, branch, kindergarten, teacher management, inventory, attendance, ordering, logging apis
+│           │   └── functions # user, branch, kindergarten, teacher, education items, attendance, ordering, logging apis
 │           └── metakiz # children's math & science play project backoffice (2023.11-2023.12)
 │               ├── stack # typescript, nestjs, typeorm, aws
 │               ├── db design, feature implementation, api doc (swagger), aws deployment
