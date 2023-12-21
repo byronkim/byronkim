@@ -82,8 +82,7 @@ ENTP 성격으로, 지속적인 학습과 새로운 도전을 추구합니다.
 감사합니다.
 
 
-[![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
-
+[![Hits](https://hits.sh/github.com/byronkim/hits.svg)](https://hits.sh/github.com/byronkim/hits/)
 
 
 
