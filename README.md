@@ -26,7 +26,7 @@ Byron_Kim
 │           │   ├── stack # typescript, node.js, typeorm, aws
 │           │   ├── db design, feature implementation, batch file, api doc (notion), aws deployment
 │           │   ├── features # member, kindergarten, video management apis
-│           │   └── active users # over 400
+│           │   └── active users # over 400 teachers and parents
 │           ├── eslc(경제사회노동위원회) normal youth # website development and deployment (2023.04-2023.06)
 │           │   ├── stack # ruby on rails, java, jboss
 │           │   └── url: https://eslc.go.kr/normalyouth
@@ -40,8 +40,8 @@ Byron_Kim
 │               └── functions # user, management, logging (dau, wau, mau) apis
 ├── vision
 │   ├── future # become a backend expert, present opinions confidently within three years
-│   ├── joy # unknown knowledge + new solutions
-│   └── enjoyment # better service + better logic
+│   ├── my_joy # unknown knowledge + new solutions
+│   └── my_enjoyment # better service + better logic
 ├── skills
 │   ├── english # opic AL
 │   └── planning_and_communication # 
@@ -50,14 +50,14 @@ Byron_Kim
 │   ├── algorithm
 │   └── flutter
 ├── hobbies
-│   ├── gaming # league_of_legends & steam
+│   ├── gaming # league_of_legends (previous diamond rank player) & steam
 │   └── social_drinking
-├── contact
-│   ├── email # bironkim88@gmail.com
+├── sns
 │   └── instagram # kgt0872
 └── .env
-    ├── MOTIVATION="continuous_learning"
+    ├── MOTIVATION="learning_until_die"
     ├── FAVORITE_TECH="typescript"
+    ├── MILITARY_SERVICE="rokmc_1067"
     └── CURRENT_OBJECTIVE="seeking_for_a_job"
 ```
 
