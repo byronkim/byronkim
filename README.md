@@ -12,7 +12,7 @@ Byron_Kim
 │   │       ├── job # db writing, google & kakao oauth login, /item endpoint related crud apis, aws deployment
 │   ├── chapter_1 # wondermove, 2022.02-2022.08
 │   │   └── project # myHyundai backend for the apps (main/dealer)
-│   │       ├── stacks # typescript, node.js, azure, mongodb
+│   │       ├── stack # typescript, node.js, azure, mongodb
 │   │       ├── features # planned for launch in 10 European countries
 │   │       └── functions
 │   │           ├── car purchase, test drive, car repair, used car sales, liveconsult service
