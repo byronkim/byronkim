@@ -28,7 +28,7 @@ Byron_Kim
 │   │
 │   └── chapter_2 # mingling, 2022.12-now(1 year)
 │       └── projects
-│           ├── minglish # english education app backend (2022.12-2023.03)
+│           ├── minglish # english education app backend 2022.12-2023.03
 │           │   ├── stack # typescript, node.js, typeorm, aws
 │           │   ├── db design, feature implementation, batch file, api doc (notion), aws deployment
 │           │   ├── features # user, kindergarten, video management apis
@@ -38,12 +38,12 @@ Byron_Kim
 │           │   ├── stack # ruby on rails, java, jboss
 │           │   └── url: https://eslc.go.kr/normalyouth
 │           │   
-│           ├── mingle_pay # backoffice web app (2023.07-2023.11)
+│           ├── mingle_pay # backoffice web app 2023.07-2023.11
 │           │   ├── stack # typescript, nestjs, typeorm, aws
 │           │   ├── planning, db design, feature implementation, api doc (swagger), aws deployment
 │           │   └── functions # user, branch, kindergarten, teacher, education items, attendance, ordering, logging apis
 │           │   
-│           └── metakiz # children's math & science play project backoffice (2023.11-2023.12)
+│           └── metakiz # children's math & science play project backoffice 2023.11-2023.12
 │               ├── stack # typescript, nestjs, typeorm, aws
 │               ├── db design, feature implementation, api doc (swagger), aws deployment
 │               └── functions # user, management, logging (dau, wau, mau) apis
