@@ -96,8 +96,9 @@ ENTP 성격으로, 지속적인 학습과 새로운 도전을 추구합니다.
 스트레스 해소용으로 리그 오브 레전드(시즌9 다이아몬드)와 스팀 게임을 즐깁니다. 
 
 감사합니다.
-
+<div align="center">
 #### Tech Stacks
+</div>
 <div align="center">
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=#339933"/>
