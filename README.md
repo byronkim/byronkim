@@ -96,10 +96,7 @@ ENTP 성격으로, 지속적인 학습과 새로운 도전을 추구합니다.
 스트레스 해소용으로 리그 오브 레전드(시즌9 다이아몬드)와 스팀 게임을 즐깁니다. 
 
 감사합니다.
-<div align="center">
 #### Tech Stacks
-</div>
-<div align="center">
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=#339933"/>
   </a>
@@ -109,31 +106,26 @@ ENTP 성격으로, 지속적인 학습과 새로운 도전을 추구합니다.
     <a href="https://ecma-international.org/" target="_blank">
     <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=#F7DF1E"/>
   </a>
-</div>
-<div align="center">
+  
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=#4479A1"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=#47A248"/>
   </a>
-</div>
-
-<div align="center">
   <a href="https://sequelize.org/" target="_blank">
     <img src="https://img.shields.io/badge/Sequelize-000000?style=for-the-badge&logo=Sequelize&logoColor=#52B0E7"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=Amazon AWS&logoColor=#232F3E"/>
   </a>
-</div>
 
-<div align="center">
  <a href="https://azure.microsoft.com/" target="_blank">
     <img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=Microsoft Azure&logoColor=#0078D4"/>
   </a>
-  
   <a href="https://rubyonrails.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Ruby on Rails-000000?style=for-the-badge&logo=Ruby on Rails&logoColor=#D30001"/>
+  </a>
     <img src="https://img.shields.io/badge/Ruby on Rails-000000?style=for-the-badge&logo=Ruby on Rails&logoColor=#D30001"/>
   </a>
 </div>
