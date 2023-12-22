@@ -2,7 +2,7 @@
 Byron_Kim
 ├── mbti # ENTP
 ├── former_jobs
-│   ├── professional_congress_organizer # 2017.03-2018.11
+│   ├── professional_congress_organizer # 2017.03-2018.11 2018 busan startup festival(global part manager), 2017 seoul international safety forum, 2017 CONFINTEA(UNESCO), and others
 │   ├── webtoon_writer # 2019.02-2019.09, title: op
 │   └── twitch_streamer # 2019.12-2020.04, league_of_legends: ARAM (MMR 2200++)
 ├── life_as_a_developer
