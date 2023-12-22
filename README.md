@@ -1,5 +1,6 @@
 ```
 Byron_Kim
+│
 ├── mbti # ENTP
 │
 ├── former_jobs
