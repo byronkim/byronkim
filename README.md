@@ -26,7 +26,7 @@ Byron_Kim
 │   │           ├── rsa (road side assistance) service request & tracking via 
 │   │           └── server setup (azure, aws), batch code, archiving code, db management
 │   │
-│   └── chapter_2 # mingling, 2022.12- now (1 year)
+│   └── chapter_2 # mingling, 2022.12-now(1 year)
 │       └── projects
 │           ├── minglish # english education app backend (2022.12-2023.03)
 │           │   ├── stack # typescript, node.js, typeorm, aws
