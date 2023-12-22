@@ -58,7 +58,7 @@ Byron_Kim
 │   ├── english # opic al
 │   └── planning_and_communication # my specialty
 │
-├── #learning
+├── learning
 │   ├── python
 │   ├── algorithm
 │   └── flutter
