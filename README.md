@@ -123,13 +123,9 @@ ENTP 성격으로, 지속적인 학습과 새로운 도전을 추구합니다.
  <a href="https://azure.microsoft.com/" target="_blank">
     <img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=Microsoft Azure&logoColor=#0078D4"/>
   </a>
-  <a href="https://rubyonrails.org/" target="_blank">
+ <a href="https://rubyonrails.org/" target="_blank">
     <img src="https://img.shields.io/badge/Ruby on Rails-000000?style=for-the-badge&logo=Ruby on Rails&logoColor=#D30001"/>
   </a>
-    <img src="https://img.shields.io/badge/Ruby on Rails-000000?style=for-the-badge&logo=Ruby on Rails&logoColor=#D30001"/>
-  </a>
-</div>
-
 
 [![Hits](https://hits.sh/github.com/byronkim/hits.svg)](https://hits.sh/github.com/byronkim/hits/)
 
