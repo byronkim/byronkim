@@ -26,27 +26,46 @@ Byron_Kim
 │   │           ├── rsa (road side assistance) service request & tracking via 
 │   │           └── server setup (azure, aws), batch code, archiving code, db management
 │   │
-│   └── chapter_2 # mingling, 2022.12-now(1 year)
+│   └── chapter_2 # mingling, 2022.12-2024.01
+│   │   └── projects
+│   │       ├── minglish # english education app backend, 2022.12-2023.03
+│   │       │   ├── stack # typescript, node.js, typeorm, aws
+│   │       │   ├── db design, feature implementation, batch file, api doc (notion), aws deployment
+│   │       │   ├── features # user, kindergarten, video management apis
+│   │       │   └── active users # over 400 teachers and parents
+│   │       │   
+│   │       ├── eslc(경제사회노동위원회) normal youth # website development and deployment, 2023.04-2023.06
+│   │       │   ├── stack # ruby on rails, java, jboss
+│   │       │   └── url: https://eslc.go.kr/normalyouth
+│   │       │   
+│   │       ├── mingle_pay # backoffice web app, 2023.07-2023.11
+│   │       │   ├── stack # typescript, nestjs, typeorm, aws
+│   │       │   ├── planning, db design, feature implementation, api doc (swagger), aws deployment
+│   │       │   └── functions # user, branch, kindergarten, teacher, education items, attendance, ordering, logging apis
+│   │       │   
+│   │       └── metakiz # children's math & science play project backoffice, 2023.11-2023.12
+│   │           ├── stack # typescript, nestjs, typeorm, aws
+│   │           ├── db design, feature implementation, api doc (swagger), aws deployment
+│   │           └── functions # user, management, logging (dau, wau, mau) apis
+│   │
+│   └── chapter_3 # daton, 2024.09-now
 │       └── projects
-│           ├── minglish # english education app backend, 2022.12-2023.03
-│           │   ├── stack # typescript, node.js, typeorm, aws
-│           │   ├── db design, feature implementation, batch file, api doc (notion), aws deployment
-│           │   ├── features # user, kindergarten, video management apis
-│           │   └── active users # over 400 teachers and parents
-│           │   
-│           ├── eslc(경제사회노동위원회) normal youth # website development and deployment, 2023.04-2023.06
-│           │   ├── stack # ruby on rails, java, jboss
-│           │   └── url: https://eslc.go.kr/normalyouth
-│           │   
-│           ├── mingle_pay # backoffice web app, 2023.07-2023.11
-│           │   ├── stack # typescript, nestjs, typeorm, aws
-│           │   ├── planning, db design, feature implementation, api doc (swagger), aws deployment
-│           │   └── functions # user, branch, kindergarten, teacher, education items, attendance, ordering, logging apis
-│           │   
-│           └── metakiz # children's math & science play project backoffice, 2023.11-2023.12
-│               ├── stack # typescript, nestjs, typeorm, aws
-│               ├── db design, feature implementation, api doc (swagger), aws deployment
-│               └── functions # user, management, logging (dau, wau, mau) apis
+│           └── tech-see # visionai event monitoring & dashboard backend
+│               ├── version # v2 (built entirely by myself from initial design to production)
+│               ├── stack # typescript, nestjs, typeorm, mysql, redis
+│               ├── core_features
+│               │   ├── camera management & visionai feature control
+│               │   ├── real-time event log ingestion from VisionAI
+│               │   ├── provides related image/video files per event log
+│               │   ├── websocket streaming (ffmpeg spawn → real-time data pipeline)
+│               │   ├── redis caching for high-frequency queries & performance boost
+│               │   ├── dashboard metrics, device status, and system insights
+│               │   └── real-time notification to connected clients
+│               └── my_role # Product Lead & Backend Lead
+│                    ├── designed entire architecture, db schema, data pipelines, and caching strategy
+│                    ├── implemented vision ai control apis + ffmpeg websocket streaming
+│                    ├── optimized memory usage and reduced runtime overhead
+│                    └── led development & currently deployed to paying customers
 │
 ├── vision
 │   ├── future # become a backend expert, present opinions confidently within three years
@@ -73,8 +92,8 @@ Byron_Kim
 └── .env
     ├── MOTIVATION="learning_until_die"
     ├── FAVORITE_TECH="typescript"
-    ├── MILITARY_SERVICE="rokmc_1067"
-    └── CURRENT_OBJECTIVE="seeking_a_new_job"
+    └──  MILITARY_SERVICE="rokmc_1067"
+   
 ```
 
 안녕하세요, 다양한 경험을 가진 백엔드 개발자 김규태(Byron Kim)입니다. 
@@ -84,11 +103,11 @@ ENTP 성격으로, 지속적인 학습과 새로운 도전을 추구합니다.
 
 2021년 부트캠프 코딩을 통해 백엔드 개발에 입문했으며,
 첫 회사였던 wondermove에서는 유럽 10개국 출시 예정이었던 'myHyundai' 앱의 백엔드를 담당하며 고객 및 딜러를 위한 다양한 API 및 기능을 구현하였고, 
-현재는 mingling에서 'minglish', 'mingle_pay', 'metakiz' 등의 프로젝트에서 유아 교육 및 사내 백오피스 웹앱의 백엔드를 개발하였습니다. 
+mingling에서 'minglish', 'mingle_pay', 'metakiz' 등의 프로젝트에서 유아 교육 및 사내 백오피스 웹앱의 백엔드를 개발하였습니다. 
+현재는 daton의 책임연구원이자 팀장으로 프로덕트 유지 보수 및 신규 프로젝트를 진행중입니다.
 
-제 비전은 백엔드 분야에서 다양한 개발자들과 자신 있게 의견을 나눌 수 있게 되는 것으로,
-몰랐던 지식을 깨우침으로 새로운 답을 찾는 것이 저의 큰 기쁨이며
-더 나은 서비스와 더 나은 로직을 고민하는 것이 저의 즐거움입니다.
+제 비전은 회사에 수익 및 목표를 실행해주는 롤과, 백엔드 분야에서 다양한 개발자들과 의견을 나누며 지속적으로 성장하는 꿈의 실현입니다.
+몰랐던 지식을 깨우침으로 새로운 답을 찾는 것이 저의 큰 기쁨이며, 더 나은 서비스와 더 나은 로직을 고민하는 것이 저의 즐거움입니다.
 
 영어 능력(Opic AL)과 책임감 있는 계획 및 커뮤니케이션 능력도 저의 강점입니다.
 
