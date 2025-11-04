@@ -61,7 +61,7 @@ Byron_Kim
 │               │   ├── redis caching for high-frequency queries & performance boost
 │               │   ├── dashboard metrics, device status, and system insights
 │               │   └── real-time notification to connected clients
-│               └── my_role # Product Lead & Backend Lead
+│               └── my_role # product lead & backend lead
 │                    ├── designed entire architecture, db schema, data pipelines, and caching strategy
 │                    ├── implemented vision ai control apis + ffmpeg websocket streaming
 │                    ├── optimized memory usage and reduced runtime overhead
