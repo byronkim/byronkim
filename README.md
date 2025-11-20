@@ -10,11 +10,6 @@ Byron_Kim
 │
 ├── life_as_a_developer
 │   │
-│   ├── bootcamp # codestates, 2021.01-2021.06
-│   │   └── project # picaff (backend part)
-│   │       ├── stack # typescript, node.js express, typeorm, mysql
-│   │       └── job # db writing, google & kakao oauth login, /item endpoint related crud apis, aws deployment
-│   │
 │   ├── chapter_1 # wondermove, 2022.02-2022.08
 │   │   └── project # myHyundai europe backend for the apps (main/dealer)
 │   │       ├── stack # typescript, node.js, azure, mongodb
@@ -98,53 +93,17 @@ Byron_Kim
 
 안녕하세요, 다양한 경험을 가진 백엔드 개발자 김규태(Byron Kim)입니다. 
 ENTP 성격으로, 지속적인 학습과 새로운 도전을 추구합니다.
-
 저의 경력은 전문 회의 기획자, 웹툰 작가, 그리고 트위치 스트리밍에 이르기까지 다양합니다. 
-
-2021년 부트캠프 코딩을 통해 백엔드 개발에 입문했으며,
-첫 회사였던 wondermove에서는 유럽 10개국 출시 예정이었던 'myHyundai' 앱의 백엔드를 담당하며 고객 및 딜러를 위한 다양한 API 및 기능을 구현하였고, 
-mingling에서 'minglish', 'mingle_pay', 'metakiz' 등의 프로젝트에서 유아 교육 및 사내 백오피스 웹앱의 백엔드를 개발하였습니다. 
 현재는 daton의 책임연구원이자 팀장으로 프로덕트 유지 보수 및 신규 프로젝트를 진행중입니다.
 
 제 비전은 회사에 수익 및 목표를 실행해주는 롤과, 백엔드 분야에서 다양한 개발자들과 의견을 나누며 지속적으로 성장하는 꿈의 실현입니다.
-몰랐던 지식을 깨우침으로 새로운 답을 찾는 것이 저의 큰 기쁨이며, 더 나은 서비스와 더 나은 로직을 고민하는 것이 저의 즐거움입니다.
-
 영어 능력(Opic AL)과 책임감 있는 계획 및 커뮤니케이션 능력도 저의 강점입니다.
 
 주요 기술 스택은 Node.js와 TypesScript이며, 알고리즘에 관심이 많습니다.
 스트레스 해소용으로 리그 오브 레전드(시즌9 다이아몬드)와 스팀 게임을 즐깁니다. 
 
 감사합니다.
-#### Tech Stacks
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=#339933"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=#3178C6"/>
-  </a>
-    <a href="https://ecma-international.org/" target="_blank">
-    <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=#F7DF1E"/>
-  </a>
-  
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=#4479A1"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=#47A248"/>
-  </a>
-  <a href="https://sequelize.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Sequelize-000000?style=for-the-badge&logo=Sequelize&logoColor=#52B0E7"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=Amazon AWS&logoColor=#232F3E"/>
-  </a>
 
- <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=Microsoft Azure&logoColor=#0078D4"/>
-  </a>
- <a href="https://rubyonrails.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Ruby on Rails-000000?style=for-the-badge&logo=Ruby on Rails&logoColor=#D30001"/>
-  </a>
 
 [![Hits](https://hits.sh/github.com/byronkim/hits.svg)](https://hits.sh/github.com/byronkim/hits/)
 
