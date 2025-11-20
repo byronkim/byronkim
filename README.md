@@ -92,7 +92,7 @@ Byron_Kim
 └── .env
     ├── MOTIVATION="learning_until_die"
     ├── FAVORITE_TECH="typescript"
-    └──  MILITARY_SERVICE="rokmc_1067"
+    └── MILITARY_SERVICE="rokmc_1067"
    
 ```
 
